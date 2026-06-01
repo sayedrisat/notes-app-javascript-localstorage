@@ -9,11 +9,11 @@ This project allows users to create, save, and delete notes dynamically while pe
 
 ## 🚀 Live Demo
 
-🔗 [https://your-live-link.com](https://sayedrisat.github.io/notes-app-javascript-localstorage/)
+🔗 https://sayedrisat.github.io/notes-app-javascript-localstorage
 
 ## 📂 Repository
 
-🔗 [https://github.com/yourusername/your-repo-name](https://github.com/sayedrisat/notes-app-javascript-localstorage)
+🔗 https://github.com/sayedrisat/notes-app-javascript-localstorage
 
 ---
 
