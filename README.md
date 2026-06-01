@@ -11,11 +11,11 @@ Create, save, and manage notes with persistent storage using the browser's Local
 
 ## 📸 Preview
 
-> Replace with your project screenshot
 
-```md
-![Notes App Screenshot](./assets/screenshot.png)
-```
+
+
+./assets/screenshot.png
+
 
 ---
 
@@ -33,8 +33,8 @@ Create, save, and manage notes with persistent storage using the browser's Local
 
 ## 🚀 Live Demo
 
-```txt
-[https://your-live-demo-link.com](https://sayedrisat.github.io/notes-app-javascript-localstorage/)
+
+https://sayedrisat.github.io/notes-app-javascript-localstorage
 ```
 
 ---
