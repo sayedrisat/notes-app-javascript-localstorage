@@ -33,6 +33,17 @@ Create, save, and manage notes with persistent storage using the browser's Local
 
 ---
 
+## Run Locally
+
+This app does not need a build step or package install.
+
+1. Clone the repository.
+2. Open `index.html` in your browser.
+
+You can also serve the folder with a local web server if you prefer.
+
+---
+
 ## 🛠️ Built With
 
 | Technology         | Purpose          |
